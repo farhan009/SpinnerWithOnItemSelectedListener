@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Spinner With OnItemSelected Listener</string>
+
+    <string-array name="country_names">
+
+        <item>Bangladesh</item>
+        <item>Canada</item>
+        <item>Germany</item>
+        <item>India</item>
+        <item>London</item>
+        <item>United State</item>
+
+    </string-array>
+
+    <string-array name="country_population">
+
+        <item>25 Million</item>
+        <item>09 Million</item>
+        <item>14 Million</item>
+        <item>19 Million</item>
+        <item>14 Million</item>
+        <item>08 Million</item>
+
+    </string-array>
+
+</resources>
